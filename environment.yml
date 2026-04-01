@@ -23,6 +23,7 @@ dependencies:
   - picard
   - gawk
   - fastp
+  - seqtk
 
   # --- R base ---
   - r-base=4.3
